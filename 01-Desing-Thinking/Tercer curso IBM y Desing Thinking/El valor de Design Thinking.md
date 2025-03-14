@@ -1,0 +1,5 @@
+El valor del Design Thinking reside en que ayuda a identificar oportunidades, diferenciar las innovaciones y lograr mejores resultados de negocio. Por ejemplo, IBM está utilizando este enfoque para transformar su cultura corporativa, orientándola al cliente y a una misión más colaborativa.
+
+Lo que más me atrajo del Design Thinking es que permite ver los problemas desde diferentes perspectivas, lo que permite comprender mejor a las personas, las situaciones y sus necesidades. Este enfoque garantiza que todo lo que diseñamos y construimos sea significativo y que la experiencia del usuario sea la prioridad, en lugar de apresurarnos a añadir nuevas funciones a nuestros productos y servicios sin saber si realmente aportarán valor.
+
+En definitiva, nuestro objetivo es mantener una conexión continua con nuestros usuarios y tomar decisiones más informadas para que los productos que creamos realmente sirvan a las personas y que reciban los productos y servicios que mejor se adapten a sus necesidades. Esto incluye superar las expectativas sobre lo que necesitamos lograr para ponernos manos a la obra y lograr algo verdaderamente eficaz.

@@ -1,0 +1,5 @@
+El Design Thinking es una técnica cada vez más popular en el mundo empresarial, y empresas como IBM lo aplican al proceso de resolución de problemas, desde la identificación del problema inicial hasta la formulación de recomendaciones concretas, incluyendo la monitorización del proceso y el desarrollo del producto final.
+
+Uno de los principios del Design Thinking es trabajar en equipo para que todos trabajen en la misma dirección. El Design Thinking es útil para grupos encargados de desarrollar nuevos productos, mejorar servicios existentes o encontrar soluciones para satisfacer las necesidades de las personas. En definitiva, el Design Thinking permite que todos comprendan claramente el propósito y el valor que desean comunicar.
+
+Además, el Design Thinking puede aplicarse presencialmente o a distancia, con herramientas digitales disponibles para la colaboración grupal. De hecho, IBM ha integrado con éxito el Design Thinking en su estrategia para ayudar a sus clientes a encontrar soluciones innovadoras y reunir a diversos grupos para comprender y encontrar soluciones innovadoras que sean viables, deseables y alcanzables.
