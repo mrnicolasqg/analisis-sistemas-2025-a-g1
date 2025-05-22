@@ -30,4 +30,4 @@ Esta aplicación permite **gestionar tareas personales** de forma sencilla, perm
 ### 1. Clona este repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tareas-app.git
+git clone https://github.com/mrnicolasqg/analisis-sistemas-2025-a-g1.git
